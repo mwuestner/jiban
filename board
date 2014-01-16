@@ -1,6 +1,6 @@
 // ==UserScript==
 // @author         MJW 
-// @version        1.3
+// @version        1.4
 // @name           JiBan Task-Board for Jira 6.1
 // @include        *Dashboard.jspa*
 // ==/UserScript==
